@@ -1,5 +1,5 @@
-# trainee001
-Repo bài tập 1 cho thực tập
+# trainee002
+Repo bài tập 2 cho thực tập
 
 Xem file [Hướng dẫn](https://github.com/colombo-trainee/trainee002/blob/master/requirements/hướng%20dẫn.md) để thực hiện
 
