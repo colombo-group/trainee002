@@ -17,7 +17,7 @@
 + Cách sử dụng IDE đã chọn
 + Cách sử dụng Github desktop [Video](https://www.youtube.com/watch?v=bdqnubR3P1Y), [Text](http://o7planning.org/web/fe/default/vi/document/70398/huong-dan-su-dung-github-voi-github-desktop)
 
-# Bài tập 1:
+# Bài tập 2:
 
 + Kiếm thức sử dụng: HTML/CSS
 + Cắt giao diện theo thiết kế dạng ảnh, psd
